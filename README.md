@@ -24,3 +24,8 @@ Temperature was also a significant feature in the model. With more iot or sensor
 
 <img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/bargraph.png">
 
+## Feature importance
+<img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/bargraph_5_features.png">
+
+## 
+<img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/modelling.png">
