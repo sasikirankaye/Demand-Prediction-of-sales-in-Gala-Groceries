@@ -11,6 +11,15 @@ For the modelling all the data in all tables will be used!
 	
 ![image](https://user-images.githubusercontent.com/62654152/187128979-92b287c7-9247-409c-b89d-9f5897db1b9d.png)
 
-Findings:
+## Findings:
 
-![image](https://user-images.githubusercontent.com/62654152/187129203-7513ed01-cd0c-49a6-93fd-fe99bbd96b1f.png)
+1.More data is required
+Model is performing with 50 % accuracy . Inorder to test this model  in production large samples are required
+
+2.Price  is  important
+Price was an important feature in the model but category was not. Are there more features about the products to include in the model 
+
+3. Build on IOT
+Temperature was also a significant feature in the model. With more iot or sensor data we believe that the accuracy of the model will improve. It also open up the potential to use open source weather data. 
+
+
