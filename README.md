@@ -22,4 +22,5 @@ Price was an important feature in the model but category was not. Are there more
 3. Build on IOT
 Temperature was also a significant feature in the model. With more iot or sensor data we believe that the accuracy of the model will improve. It also open up the potential to use open source weather data. 
 
+<img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/bargraph.png">
 
