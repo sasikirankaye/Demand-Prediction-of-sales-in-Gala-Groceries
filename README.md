@@ -11,7 +11,7 @@ For the modelling all the data in all tables will be used!
 	
 ![image](https://user-images.githubusercontent.com/62654152/187128979-92b287c7-9247-409c-b89d-9f5897db1b9d.png)
 
-## Findings:
+## Recommendations:
 
 1.More data is required
 Model is performing with 50 % accuracy . Inorder to test this model  in production large samples are required
@@ -27,5 +27,3 @@ Temperature was also a significant feature in the model. With more iot or sensor
 ## Feature importance
 <img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/bargraph_5_features.png">
 
-## 
-<img src="https://github.com/sasikirankaye/Demand-Prediction-of-sales-in-Gala-Groceries/blob/main/MACHINE_LEARNING_PRODUCTION/modelling.png">
